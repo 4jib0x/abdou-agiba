@@ -91,7 +91,7 @@ mission:
   open_to: "New opportunities where I can apply my passion for Cloud Security"
 
 fun_facts:
- - "I'm a fan of games , music , coffe."
+ - "I'm a fan of games , music , coffee."
  - "When I'm not coding, I'm exploring a new Linux distribution"
  - "Deeply interested in tech hardware, from keyboards to PC components ⌨️."
 ```
