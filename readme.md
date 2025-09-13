@@ -58,32 +58,11 @@
 personal_info:
   name: Abdulrahman Agiba
   pronouns: He/Him
-  education: "Faculty of Computer Science & Information @ Tanta University"
-  languages:
-            Arabic : "Native"
-            English: "B2 - Upper-Intermediate"
+  education: "Faculty of Computer Science & Information "
+
   contact:
-    email: "abdouagiba@gmail.com"
+    email: "4jib0x@gmail.com"
     discord : "abdoagiba"
-
-professional_focus:
-  primary_interests:
-    - Cloud Computing
-    - Cloud & Cyber Security
-    - DevOps
-  learning_path:
-    cloud_fundamentals: [AWS, Docker, Kubernetes]
-    security_fundamentals: [Network Security, Cloud Security Concepts]
-    devops_fundamentals: [ Terraform ]
-
-technical_toolkit:
-  current_focus:
-    languages: [Python]
-    operating_systems: [Linux , Windows]
-    tools: [Git Hub, Bash Scripting, VS Code]
-  previous_experience:
-    frontend: [HTML, CSS, JavaScript]
-    experience_level: " > 1 year"
 
 mission:
   guiding_principle: "I believe the best way to learn is by doing."
@@ -253,10 +232,10 @@ fun_facts:
 <div align="center">
   <p>
     <a href="https://abdou-agiba.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="mailto:abdouagiba@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="mailto:4jib0x@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/abdulrahman-agiba-170341350/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://t.me/ABDOU_AGIBA" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="https://twitter.com/abdou_agiba" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter    )"/></a>
+    <a href="https://twitter.com/4jib0x" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter    )"/></a>
     <a href="https://discord.com/users/1045747163596070913" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   </p>
 </div>
