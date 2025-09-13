@@ -65,7 +65,7 @@ personal_info:
     discord : "4jib0x"
 
 mission:
-  guiding_principle: "I believe the best way to learn is by doing."
+  tagline: "Just a node in the digital verse."
   current_challenge: "Building a strong foundation in  Cybersecurity | Cloud Security."
 
 fun_facts:
