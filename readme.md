@@ -56,23 +56,22 @@
 # about_me.yaml
 
 personal_info:
-  name: Abdulrahman Agiba
+  name: 𝟺𝚓𝚒𝚋𝟶𝚡 |  عَـجـِيـبـوكـس
   pronouns: He/Him
   education: "Faculty of Computer Science & Information "
 
   contact:
     email: "4jib0x@gmail.com"
-    discord : "abdoagiba"
+    discord : "4jib0x"
 
 mission:
   guiding_principle: "I believe the best way to learn is by doing."
-  current_challenge: "Building a strong foundation in cloud and security."
-  open_to: "New opportunities where I can apply my passion for Cloud Security"
+  current_challenge: "Building a strong foundation in  Cybersecurity | Cloud Security."
 
 fun_facts:
- - "I'm a fan of games , music , coffee."
- - "When I'm not coding, I'm exploring a new Linux distribution"
- - "Deeply interested in tech hardware, from keyboards to PC components ⌨️."
+ - "Outside of coding, you'll find me gaming or watching movies."
+ - "My ideal weekend involves a new Linux distro and a cup of black coffee."
+ - "Deeply interested in tech hardware, Love old hardware and PC components. "
 ```
 
 <!-- Hollow Knight GIF -->
