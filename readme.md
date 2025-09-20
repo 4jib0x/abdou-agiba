@@ -20,7 +20,7 @@
 
 <!-- Portfolio Button -->
 <p align="center">
-  <a href="https://abdou-agiba.vercel.app/" target="_blank">
+  <a href="https://4jib0x.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -32,13 +32,13 @@
 <!-- Profile Stats Badges -->
 <p align="center">
   <!-- Total Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=abdou-agiba&label=Total%20Views&color=blueviolet&style=flat-square" alt="Total profile views" />
+  <img src="https://komarev.com/ghpvc/?username=4jib0x&label=Total%20Views&color=blueviolet&style=flat-square" alt="Total profile views" />
   <!-- Followers (Clickable  ) -->
   <a href="https://github.com/4jib0x?tab=followers"><img src="https://img.shields.io/github/followers/4jib0x?label=Followers&style=flat-square&color=blueviolet&logo=github" alt="GitHub followers" /></a>
   <!-- Total Stars (Clickable  ) -->
-  <a href="https://github.com/4jib0x?tab=stars"><img src="https://img.shields.io/github/stars/abdou-agiba?label=Stars&style=flat-square&color=blueviolet&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/4jib0x?tab=stars"><img src="https://img.shields.io/github/stars/4jib0x?label=Stars&style=flat-square&color=blueviolet&logo=github" alt="GitHub stars" /></a>
   <!-- Total Contributions -->
-  <img src="https://img.shields.io/github/contributors/4jib0x/abdou-agiba?label=Contributions&style=flat-square&color=blueviolet&logo=github" alt="GitHub contributions" />
+  <img src="https://img.shields.io/github/contributors/4jib0x/4jib0x?label=Contributions&style=flat-square&color=blueviolet&logo=github" alt="GitHub contributions" />
 </p>
 
 <!-- Animated Divider -->
@@ -48,7 +48,7 @@
 
 <!-- 2. ABOUT ME -->
 <h2 align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="40" />
+  <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/bonefire.gif?raw=true" width="40" />
   About Me ..
 </h2>
 
@@ -76,12 +76,12 @@ fun_facts:
 
 <!-- Hollow Knight GIF -->
 <p align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/hollor_knight1.gif?raw=true" width="350" />
+  <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/hollor_knight1.gif?raw=true" width="350" />
 </p>
 
 <!-- New Animated Divider -->
 <p align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/Divider-flip.gif?raw=true" alt="Animated Divider">
+  <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/Divider-flip.gif?raw=true" alt="Animated Divider">
 </p>
 
 <!-- 3. TECH STACK -->
@@ -94,7 +94,7 @@ fun_facts:
 
 <!-- Languages -->
 <h3>
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
+  <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
   Programming Languages
 </h3>
 <p align="center">
@@ -143,7 +143,7 @@ fun_facts:
 
 <!-- Software & Tools -->
 <h3>
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
+  <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/bonefire.gif?raw=true" width="30" />
   Software & Tools
 </h3>
 <p align="center">
@@ -195,7 +195,7 @@ fun_facts:
 <!-- GITHUB STATS -->
 <div align="center">
   <h2>
-    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/Github%20state%20gif.webp?raw=true" width="40" style="vertical-align:middle" />
+    <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/Github%20state%20gif.webp?raw=true" width="40" style="vertical-align:middle" />
     My GitHub Stats
   </h2>
 </div>
@@ -203,13 +203,13 @@ fun_facts:
 
 <!-- Stats Card & GIF -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdou-agiba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/github%20stats2.gif?raw=true" alt="GitHub Stats GIF" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4jib0x&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFF&bg_color=0D1117" alt="Abdou Agiba's GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/github%20stats2.gif?raw=true" alt="GitHub Stats GIF" width="250" />
 </p>
 
 <!-- Contribution Snake -->
 <div align="center">
-  <img src="https://github.com/abdou-agiba/abdou-agiba/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  <img src="https://github.com/4jib0x/4jib0x/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </div>
 
 
@@ -221,7 +221,7 @@ fun_facts:
 <!-- 4. CONTACT ME -->
 <div align="center">
   <h2>
-    <img src="https://github.com/abdou-agiba/abdou-agiba/blob/main/assets/md/friends.gif?raw=true" width="50" style="vertical-align:middle" />
+    <img src="https://github.com/4jib0x/4jib0x/blob/main/assets/md/friends.gif?raw=true" width="50" style="vertical-align:middle" />
     Get in Touch
   </h2>
   <p>I enjoy helping others and collaborating on projects. If you have a question or just want to say hi...</p>
@@ -230,7 +230,7 @@ fun_facts:
 
 <div align="center">
   <p>
-    <a href="https://abdou-agiba.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://4jib0x.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:4jib0x@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/abdulrahman-agiba-170341350/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://t.me/ABDOU_AGIBA" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
